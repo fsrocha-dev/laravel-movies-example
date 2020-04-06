@@ -9,7 +9,8 @@
         <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8">
             <div class="mt-8">
                 <a href="#">
-                    <img src="/img/starwars.jpg" alt="StarWars">
+                    <img src="/img/starwars.jpg" alt="StarWars"
+                        class="hover:opacity-75 transition ease-in-out duration-150">
                 </a>
                 <div class="mt-2">
                     <a href="#" class="text-lg mt-2 hover:text-gray-300">Star Wars</a>
